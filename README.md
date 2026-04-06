@@ -1,2 +1,1 @@
-# Simple_Ping_pong_Game
-It is a simple ping pong game using html,css and js
+It is my Minimal UI ping pong application developed with HTML,CSS and Js
